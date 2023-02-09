@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 partie merge
+=======
+modification côté R
+>>>>>>> new-branch-feature
