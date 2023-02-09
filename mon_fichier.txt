@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-conflit côté R
-=======
-gestion de conflit K
->>>>>>> 547828a2931750ffc0adadaa358049add3858f55
+modification côté R
